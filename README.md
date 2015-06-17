@@ -1,5 +1,5 @@
 # n-Queens
-Determine if input is a valid solution to the n-queens[https://en.wikipedia.org/wiki/Eight_queens_puzzle] problem.
+Determine if input is a valid solution to the [n-queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle) problem.
 
 ## Data Input
 
